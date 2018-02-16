@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Secret key
+key.pem
+cert.pem
+vision.json
+
+
 # C extensions
 *.so
 

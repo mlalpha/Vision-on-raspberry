@@ -1,0 +1,8 @@
+google-api-python-client==1.5.2
+google-auth==1.4.0
+google-auth-httplib2==0.0.3
+oauth2client==1.5.2
+picamera
+flask
+pyopenssl
+google-cloud-vision==0.30.0
