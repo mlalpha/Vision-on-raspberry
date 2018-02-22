@@ -9,5 +9,10 @@ export GOOGLE_APPLICATION_CREDENTIALS=./vision.json
 virtualenv env
 source activate env/bin/activate
 pip install -r requriement.txt
+```
+
+# Running the web api
+```
+source activate env/bin/activate
 python app.py
 ```
