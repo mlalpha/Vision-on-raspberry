@@ -13,6 +13,7 @@ pip install -r requriement.txt
 
 # Running the web api
 ```
+export GOOGLE_APPLICATION_CREDENTIALS=./vision.json
 source activate env/bin/activate
 python app.py
 ```
