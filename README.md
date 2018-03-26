@@ -17,3 +17,4 @@ export GOOGLE_APPLICATION_CREDENTIALS=./vision.json
 source activate env/bin/activate
 python app.py
 ```
+gcloud auth application-default login
